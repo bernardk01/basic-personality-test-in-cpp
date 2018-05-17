@@ -13,6 +13,7 @@ using namespace std;
 int main()
 {
     cout<<"\t@@@@@@@@@@@@@@@@ Welcome to the personality test @@@@@@@@@@@@@@@@@@@\n\n\n";
+    cout<<“\tEnter your answer in lowercase \n";
     
     
     char ans1,ans2,ans3,ans4,ans5,ans6,ans7,ans8,ans9,ans10;
